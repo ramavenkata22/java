@@ -1,5 +1,4 @@
-class raju( )
-
+class raju
 {
 
 public static void main(String[]args)
